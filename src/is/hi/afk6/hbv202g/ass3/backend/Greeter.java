@@ -1,3 +1,7 @@
+package is.hi.afk6.hbv202g.ass3.backend;
+
+import is.hi.afk6.hbv202g.ass3.backend.Language;
+
 public class Greeter {
 
     private Language language = Language.ENGLISH;
