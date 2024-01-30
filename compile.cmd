@@ -1,1 +1,1 @@
-javac .\*.java
+javac -d bin src\*.java
